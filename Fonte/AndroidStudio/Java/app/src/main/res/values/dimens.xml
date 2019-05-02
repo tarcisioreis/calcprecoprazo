@@ -1,0 +1,11 @@
+<resources>
+    <dimen name="paddingLeft">15dp</dimen>
+    <dimen name="textsize">15sp</dimen>
+    <dimen name="layoutmargintop">24dp</dimen>
+    <dimen name="layoutmarginbottom">8dp</dimen>
+    <dimen name="layoutwidthspCodigo">250dp</dimen>
+    <dimen name="layoutwithCodigo">80dp</dimen>
+    <dimen name="layoutwidthedPeso">80dp</dimen>
+    <dimen name="layoutwidthedData">100dp</dimen>
+    <dimen name="layout_marginLeft">15dp</dimen>
+</resources>

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CalcPrecoPrazo</string>
+
+    <string name="alerta_title">Informação!</string>
+    <string name="alerta_sair">Confirmar saída do aplicativo?</string>
+
+    <string name="lbl_codigo">Serviço</string>
+    <string name="lbl_peso">Peso</string>
+    <string name="lbl_data">Data</string>
+
+    <string name="hint_sim">Sim</string>
+    <string name="hint_nao">Não</string>
+    <string name="hint_ok">OK</string>
+    <string name="hint_aguarde">Aguarde... Carregando dados.</string>
+    <string name="hint_fechar">Fechar</string>
+
+    <string name="action_sair">Sair</string>
+    <string name="action_enviar">Enviar</string>
+
+    <string name="error_network">Verifique seu sinal com a Internet.Continuar ou tentar mais tarde?</string>
+    <string name="error_message">Ocorreu um erro inesperado. Verifique!</string>
+    <string name="error_peso">Informe um valor válido para o Peso!</string>
+    <string name="error_data">Informe uma data válida!</string>
+</resources>
